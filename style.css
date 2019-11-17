@@ -1,0 +1,24 @@
+#header{
+    background: black;
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+}
+#headerdiv{
+    background: black;
+}
+#searchresults{
+    width: 500px;
+}
+
+.col-sm-4{
+    padding-bottom: 10px;
+    background: lightgrey;
+}
+form{
+    padding-left: 10px;
+}
+#citylist{
+    width: 70%; 
+    padding-left: 10px;
+}
